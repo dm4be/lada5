@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Важнота\УНИВЕРСИТЕТ\3 курс\6 семестр\Теория формальных языков и компиляторов\Laba1\Laba1\obj\Debug\Laba1.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Важнота\УНИВЕРСИТЕТ\3 курс\6 семестр\Теория формальных языков и компиляторов\Laba1\Laba1\obj\Debug\Laba1.Properties.Resources.resources
+C:\Users\hp\Desktop\Важнота\УНИВЕРСИТЕТ\3 курс\6 семестр\Теория формальных языков и компиляторов\Laba1\Laba1\obj\Debug\Laba1.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Важнота\УНИВЕРСИТЕТ\3 курс\6 семестр\Теория формальных языков и компиляторов\Laba1\Laba1\obj\Debug\Laba1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Важнота\УНИВЕРСИТЕТ\3 курс\6 семестр\Теория формальных языков и компиляторов\Laba1\Laba1\bin\Debug\Laba1.exe.config
+C:\Users\hp\Desktop\Важнота\УНИВЕРСИТЕТ\3 курс\6 семестр\Теория формальных языков и компиляторов\Laba1\Laba1\bin\Debug\Laba1.exe
+C:\Users\hp\Desktop\Важнота\УНИВЕРСИТЕТ\3 курс\6 семестр\Теория формальных языков и компиляторов\Laba1\Laba1\bin\Debug\Laba1.pdb
+C:\Users\hp\Desktop\Важнота\УНИВЕРСИТЕТ\3 курс\6 семестр\Теория формальных языков и компиляторов\Laba1\Laba1\obj\Debug\Laba1.exe
+C:\Users\hp\Desktop\Важнота\УНИВЕРСИТЕТ\3 курс\6 семестр\Теория формальных языков и компиляторов\Laba1\Laba1\obj\Debug\Laba1.pdb
+C:\Users\hp\Desktop\Важнота\УНИВЕРСИТЕТ\3 курс\6 семестр\Теория формальных языков и компиляторов\Laba1\Laba1\obj\Debug\Laba1.Compiler.resources
+C:\Users\hp\Desktop\Важнота\УНИВЕРСИТЕТ\3 курс\6 семестр\Теория формальных языков и компиляторов\Laba1\Laba1\obj\Debug\Laba1.SourceCodeForm.resources
+C:\Users\hp\Desktop\Важнота\УНИВЕРСИТЕТ\3 курс\6 семестр\Теория формальных языков и компиляторов\Laba1\Laba1\bin\Debug\Laba1.exe.manifest
+C:\Users\hp\Desktop\Важнота\УНИВЕРСИТЕТ\3 курс\6 семестр\Теория формальных языков и компиляторов\Laba1\Laba1\bin\Debug\Laba1.application
+C:\Users\hp\Desktop\Важнота\УНИВЕРСИТЕТ\3 курс\6 семестр\Теория формальных языков и компиляторов\Laba1\Laba1\obj\Debug\Laba1.exe.manifest
+C:\Users\hp\Desktop\Важнота\УНИВЕРСИТЕТ\3 курс\6 семестр\Теория формальных языков и компиляторов\Laba1\Laba1\obj\Debug\Laba1.application
